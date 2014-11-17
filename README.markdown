@@ -1,3 +1,5 @@
+![Travis CI build status](https://api.travis-ci.org/bneijt/aeson.svg)
+
 # Welcome to aeson
 
 aeson is a fast Haskell library for working with JSON data.
@@ -26,3 +28,4 @@ There's also a [Mercurial mirror](http://bitbucket.org/bos/aeson):
 
 This library is written and maintained by Bryan O'Sullivan,
 <bos@serpentine.com>.
+
